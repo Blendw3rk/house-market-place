@@ -61,7 +61,7 @@ function Listing() {
               style={{
                 background: `url(${listing.imgUrls[index]}) center no-repeat`,
                 backgroundSize: 'cover',
-                minHeight: '30rem',
+                minHeight: '20rem',
               }}
               className='swiperSlideDiv'
             ></div>
